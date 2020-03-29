@@ -1,0 +1,211 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News", Al-Alam
+http://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF: -1 tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News", Al Mayadeen
+http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="News", Al Manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Alsumaria ARB" tvg-name="Alsumaria ARB" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" group-title="News", Al Sumaria
+http://95.170.215.109/hls/m3u8/AlSumaria-Backup.m3u8
+#EXTINF: -1 tvg-id="Al Sharqiya ARB" tvg-name="Al Sharqiya ARB" tvg-logo="http://alsharqiyatv.info/tv.jpg" group-title="News", Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png" group-title="News", Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF: -1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News", Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF: -1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News", Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF: -1 tvg-id="DW Arabia ARB" tvg-name="DW Arabia ARB" tvg-logo="https://i.imgur.com/LGjZIWL.png" group-title="News", DW Arabia
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF: -1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News", BBC Arabic
+http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF: -1 tvg-id="Sky News Arabic ARB" tvg-name="Sky News Arabic ARB" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News", Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF: -1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News", Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
+#EXTINF: -1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News", Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
+#EXTINF: -1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" group-title="News", Al Jadeed HD
+http://livecdnh3.tvanywhere.ae/hls/jadeed/01.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News", Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://altaghier.tv/wp-content/uploads/2019/11/altaghier-tv-w.png" group-title="News", Al Taghayer
+https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
+#EXTINF: -1 tvg-logo="https://www.karbala-tv.net/s/img/logo-ktv.png" group-title="News", Karbala
+https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News", Al Araby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="Al Hurra ARB" tvg-name="Al Hurra ARB" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg" group-title="News", Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF: -1 tvg-id="Al Hurra Iraq ARB" tvg-name="Al Hurra Iraq ARB" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="News", Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF: -1 tvg-name="Al Iraqiya TV ARB" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News", Al Iraqiya
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News", France 24 Arabic
+http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News", Syrian News Channel
+http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News", TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF: -1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General", Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF: -1 tvg-id="B4U Aflam ARB" tvg-name="B4U Aflam ARB" tvg-logo="https://i.imgur.com/IvIdaGB.png" group-title="General", B4U Aflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+#EXTINF: -1 tvg-id="B4U Plus ARB" tvg-name="B4U Plus ARB" tvg-logo="https://i.imgur.com/KnpCnyh.png" group-title="General", B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF: -1 tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" group-title="General", Babylon TV
+https://babylonlive.net/babylontv/kardokardo.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network Arabic ARB" tvg-name="Cartoon Network Arabic ARB" tvg-logo="https://i.imgur.com/mT3mCCK.png" group-title="General", Cartoon Network
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF: -1 tvg-id="Syria ARB" tvg-name="Syria ARB" tvg-logo="https://i.imgur.com/nCGsD74.jpg" group-title="General", Syrian TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PmX9Ca3.png" group-title="General", Aghani
+http://livecdnh1.tvanywhere.ae/hls/aghani/04.m3u8
+#EXTINF: -1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="General", Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF: -1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="General", LBC International
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+#EXTINF: -1 tvg-id="LDC ARB" tvg-name="LDC ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/LDC_logo_new.png/93px-LDC_logo_new.png" group-title="General", LDC
+http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
+#EXTINF: -1 tvg-id="MTV Lebanon ARB" tvg-name="MTV Lebanon ARB" tvg-logo="https://www.ares-portal.com/wp-content/uploads/2017/09/plugin.video_.mtvlebanon-1320x743.png" group-title="General", MTV Lebanon
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
+#EXTINF: -1 tvg-id="NBN ARB" tvg-name="NBN ARB" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="General", NBN
+http://livecdnh1.tvanywhere.ae/hls/nbn/04.m3u8
+#EXTINF: -1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="General", OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
+#EXTINF: -1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="General", Tele Liban
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06.m3u8
+#EXTINF: -1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport", Abu Dhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+#EXTINF: -1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport", Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF: -1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport", Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF: -1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport", Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF: -1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport", Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport", Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF: -1 tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport", Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF: -1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport", Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF: -1 tvg-id="Bahrain Sport 2 ARB" tvg-name="Bahrain Sport 2 ARB" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport", Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+#EXTINF: -1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport", Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+#EXTINF: -1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport", Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF: -1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport", Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
+#EXTINF: -1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport", Dubai Sports 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
+#EXTINF: -1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport", Dubai Sports 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
+#EXTINF: -1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" group-title="Sport", Jordan Sport TV
+http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
+#EXTINF: -1 tvg-id="KSA Sports" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Sport", KSA Sports
+https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v5fqKxL.png" group-title="Sport", KSA Sports 2
+http://95.170.215.107/hls/m3u8/KSA-Sport2-Bakup.m3u8
+#EXTINF: -1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Sport", KTV Sport
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
+#EXTINF: -1 tvg-id="Nile Sport ARB" tvg-name="Nile Sport ARB" tvg-logo="https://i.imgur.com/X8hX15o.jpg" group-title="Sport", Nile Sports
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+#EXTINF: -1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sport", Oman Sport
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EIqkKxU.jpg" group-title="Sport", ON Sport
+http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
+#EXTINF: -1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport", Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious", Imam Hussein TV 2 Arabic
+http://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious", Karbala Live 1
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious", Karbala Live 2
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious", Karbala Live 3
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious", Karbala Live 4
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious", Karbala Live 5
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious", Karbala Live 6
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot6/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/817xRPg.png" group-title="Religious", Aliman TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF: -1 group-title="Religious", Assirat TV
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" group-title="Religious", CharityTV
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="Religious", Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6yxE1jv.jpg" group-title="Religious", Nour Al Shabab
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="Religious", Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Religious", Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Religious", NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF: -1 tvg-id="Arabica Music ARB" tvg-name="Arabica Music ARB" tvg-logo="https://i.imgur.com/8He6Lca.png" group-title="Music", Arabica Music
+http://livecdnh2.tvanywhere.ae/hls/arabica_music/04.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Q1Kjknl.png" group-title="Music", Eamar Music
+http://82.212.74.3:8000/live/7514.m3u8
+#EXTINF: -1 tvg-id="Mazzika ARB" tvg-name="Mazzika ARB" tvg-logo="https://i.imgur.com/uaIndQt.png" group-title="Music", Mazzika
+http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ApjPInT.png" group-title="Music", Music Al Haneen
+http://95.170.215.109/hls/m3u8/M-alhanen-Backup.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/B1ihFTL.png" group-title="Music", Music Al Remas
+http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8
+#EXTINF: -1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-logo="https://i.imgur.com/KABKzdl.png" group-title="Music", Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
+#EXTINF: -1 tvg-id="Rotana Music ARB" tvg-name="Rotana Music ARB" tvg-logo="https://i.imgur.com/N4AyK2U.png" group-title="Music", Rotana Music
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+#EXTINF: -1 tvg-id="Arabica Music ARB" tvg-name="Arabica Music ARB" tvg-logo="https://i.imgur.com/8He6Lca.png" group-title="Music", Arabica Music
+http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
+#EXTINF: -1 tvg-id="Arabica Music ARB" tvg-name="Arabica Music ARB" tvg-logo="https://i.imgur.com/8He6Lca.png" group-title="Music", Arabica Music
+http://livecdnh2.tvanywhere.ae/hls/arabica_music/04.m3u8
+#EXTINF: -1 tvg-id="CBC Drama ARB" tvg-name="CBC Drama ARB" tvg-logo="https://i.imgur.com/VW5Qk23.png" group-title="Movies", CBC Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+#EXTINF: -1 tvg-id="Cinema 1 ARB" tvg-name="Cinema 1 ARB" tvg-logo="https://i.imgur.com/lNhSZ9N.png" group-title="Movies", Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+#EXTINF: -1 tvg-id="dmc Drama ARB" tvg-name="dmc Drama ARB" tvg-logo="https://i.imgur.com/iRKkgto.jpg" group-title="Movies", DMC Drama
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
+#EXTINF: -1 tvg-id="dmc HD ARB" tvg-name="dmc HD ARB" tvg-logo="https://i.imgur.com/es7v1kI.png" group-title="Movies", DMC HD
+http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
+#EXTINF: -1 tvg-id="Dubai One ARB" tvg-name="Dubai One ARB" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies", Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RPwKZUD.jpg" group-title="Movies", iFILM Arabic
+https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/chunklist_w1579167097_b644100_slen.m3u8
+#EXTINF: -1 tvg-id="Imagine Movies ARB" tvg-name="Imagine Movies ARB" tvg-logo="https://i.imgur.com/2tnZJmq.jpg" group-title="Movies", Imagine Movies
+http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
+#EXTINF: -1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies", MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF: -1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies", MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
+#EXTINF: -1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies", MBC Drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
+#EXTINF: -1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies", MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
+#EXTINF: -1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-logo="https://i.imgur.com/ZMXEFd1.png" group-title="Movies", Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF: -1 tvg-id="Star Movies ARB" tvg-name="Star Movies ARB" tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="Movies", Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
+#EXTINF: -1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Movies", Syria Drama
+http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
+#EXTINF: -1 tvg-id="Karameesh ARB" tvg-name="Karameesh ARB" tvg-logo="https://i.imgur.com/tLdANAi.png" group-title="Kids", Karameesh
+http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
+#EXTINF: -1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" group-title="Kids", KTV Kids
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
+#EXTINF: -1 tvg-id="Space Toon Arabic ARB" tvg-name="Space Toon Arabic ARB" tvg-logo="https://i.imgur.com/L42Ouau.png" group-title="Kids", Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="Kids", Taha TV
+http://95.170.215.109/hls/TAHA-Backup-M.m3u8
+#EXTINF: -1 tvg-id="Toyor Baby ARB" tvg-name="Toyor Baby ARB" tvg-logo="https://i.imgur.com/tQCbmDZ.png" group-title="Kids", Toyor Baby
+http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
+#EXTINF: -1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Entertainment", MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+#EXTINF: -1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-logo="https://i.imgur.com/bHz4QYC.png" group-title="Classic", Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
